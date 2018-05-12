@@ -1,2 +1,3 @@
 # hello-world
-This is a first project
+This is a first project.
+Hello World!
